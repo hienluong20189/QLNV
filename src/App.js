@@ -61,7 +61,7 @@ function App() {
             <select className="form-control" id="Position_ID">
               <option>--Select a Position--</option>
 
-              {/* <!-- Comment đoạn code này lại, sẽ thực hiện load và fill dữ liệu API lấy trực tiếp từ Server
+              {/* <!  -- Comment đoạn code này lại, sẽ thực hiện load và fill dữ liệu API lấy trực tiếp từ Server
                 //  <option>Developer</option>
                 //  <option>Tester</option>
                 //  <option>Scrum Master</option>
